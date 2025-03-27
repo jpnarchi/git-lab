@@ -10,7 +10,7 @@ This is a github practice repository
 ![Coding is borring now, (Cursor Image)](/1_PGy33jpk3D_sNn8nGE6Xyg.jpg)
 
 ### Code Examples
-```print(2+2) ```
+```python print(2+2) ```
 
 ### Lists
 
