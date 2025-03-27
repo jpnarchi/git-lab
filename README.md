@@ -1,5 +1,9 @@
-## Git and github laboratory
+# Git and github laboratory
 
-# git-lab
+## Description
+This is a github practice repository
 
-Juan Pablo Narchi
+### Contents
+
+
+## References
